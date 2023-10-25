@@ -1,4 +1,5 @@
-# SER-PDSSM
+# SER-PDSSM (SPEECH EMOTION RECOGNITION-PUNCTUATION-DRIVEN SPEECH SEGMENTATION MODEL)
+
 
 MLP_ExtraTree.py: 
 SER model that is trained by MLP with RFE(ExtraTreeClassifier) technique
